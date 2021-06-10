@@ -2,6 +2,7 @@
 Paper link: [SADRNet: Self-Aligned Dual Face Regression Networks for Robust 3D Dense Face Alignment and Reconstruction](https://arxiv.org/abs/2106.03021)
 
 ## Requirements
+```
 python                 3.6.2
 matplotlib             3.1.1  
 Cython                 0.29.13
@@ -14,6 +15,7 @@ scikit-image           0.15.0
 scipy                  1.3.1
 torch                  1.2.0                 
 torchvision            0.4.0
+```
 
 ## Pretrained model
 
