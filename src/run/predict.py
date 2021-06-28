@@ -97,7 +97,7 @@ class Evaluator:
         self.all_eval_data = val_dataset.val_data
 
     def get_example_data(self):
-        val_dataset = make_dataset('data/example', 'val')
+        val_dataset = make_dataset(['data/example'], 'val')
         self.all_eval_data = val_dataset.val_data
 
     def show_face_uvm(self, face_uvm, img, gt_uvm=None, is_show=True):
