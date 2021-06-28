@@ -226,8 +226,6 @@ class Evaluator:
                     io.imsave(f'{output_folder}/{i}_img.jpg', init_img)
 
         print('Dataset Results')
-        for key in self.metrics:
-            print(self.printer.get_variable_str(key))
 
 
 if __name__ == '__main__':
