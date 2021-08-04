@@ -1,6 +1,7 @@
 # SADRNet
 Paper link: [SADRNet: Self-Aligned Dual Face Regression Networks for Robust 3D Dense Face Alignment and Reconstruction](https://arxiv.org/abs/2106.03021)
 
+![image](https://github.com/MCG-NJU/SADRNet/blob/main/data/output/30904b202ac883bc14e59c1225c9316c.gif)
 ## Requirements
 ```
 python                 3.6.2
