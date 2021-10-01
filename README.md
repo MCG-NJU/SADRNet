@@ -30,7 +30,7 @@ Please set ```./SADRN``` as the working directory when running codes in this rep
 
 * Put images under ```data/example/```.
 
-* Run ```src/run/predirct.py```.
+* Run ```src/run/predict.py```.
 
 The network takes cropped-out 256×256×3 images as the input.
 
